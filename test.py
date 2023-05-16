@@ -67,7 +67,7 @@ if __name__ == '__main__':
         default='./samples/inputs',
     )
     parser.add_argument(
-        '--output_dir', 
+        '--output_dir',
         type=str, 
         default='./samples/results',
     )
